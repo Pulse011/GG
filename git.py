@@ -4,4 +4,4 @@ print('Itenas')
 
 print("lul")
 print("lol")
-print("0k")
+print("ok")
